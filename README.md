@@ -7,7 +7,7 @@ Teacher can make some changes in code but the codes will almost be same
 
 # Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
 
-![Hacktoberfest]([hacktoberfest.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.com%2F&psig=AOvVaw320hPFgr09nYf2MLFny1l8&ust=1696444978654000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODGs5XE2oEDFQAAAAAdAAAAABAE))
+![Hacktoberfest](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.com%2F&psig=AOvVaw320hPFgr09nYf2MLFny1l8&ust=1696444978654000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODGs5XE2oEDFQAAAAAdAAAAABAE)
 
 This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
 

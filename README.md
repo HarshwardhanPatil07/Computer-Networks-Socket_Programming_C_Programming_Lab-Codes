@@ -7,7 +7,7 @@ Teacher can make some changes in code but the codes will almost be same
 
 # Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
 
-![image]([hactoberfest.png])
+![Hacktoberfest](hacktoberfest.png)
 
 This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
 
@@ -27,7 +27,7 @@ This Repository is a collection of scripts, games, bots, scraper and tools writt
 3. Execute the python script Example:
 
 ```
-git clone 
+git clone https://github.com/HarshwardhanPatil07/Computer-Networks-Socket_Programming_C_Programming_Lab-Codes.git
 cd Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
 ```
 
@@ -39,7 +39,7 @@ cd Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
 2. Clone the repositry
 
 ```
-git clone 
+git clone https://github.com/HarshwardhanPatil07/Computer-Networks-Socket_Programming_C_Programming_Lab-Codes.git
 ```
 
 3. Add a remote for the original repository.

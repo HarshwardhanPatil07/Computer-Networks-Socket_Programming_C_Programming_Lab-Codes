@@ -4,19 +4,12 @@
 Check the code first which you are going to use 
 Teacher can make some changes in code but the codes will almost be same
 # :heart:
-
-# Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
-
 ![Hacktoberfest](https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?resize=1200%2C630)
 
-This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
+This Repository is a collection of  C
 
 # Prerequisite
- * Python
  * C
- * C++
- * Java
- * JS
  
  # Workflow for execution
   

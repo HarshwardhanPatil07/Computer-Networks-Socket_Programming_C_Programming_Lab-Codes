@@ -7,7 +7,7 @@ Teacher can make some changes in code but the codes will almost be same
 
 # Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
 
-![image]([hactoberfest.png]()![Picsart_22-10-07_00-53-27-311]()
+![image]([hactoberfest.png])
 
 This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
 

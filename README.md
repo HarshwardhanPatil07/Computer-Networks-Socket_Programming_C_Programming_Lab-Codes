@@ -7,7 +7,7 @@ Teacher can make some changes in code but the codes will almost be same
 
 # Computer-Networks-Socket_Programming_C_Programming_Lab-Codes
 
-![image]([https://user-images.githubusercontent.com/77196053/195439747-3d2600b0-df06-43fc-9dab-534a9e62616e.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gayankod%2Fhacktoberfest-2023-are-you-ready-8640a0a36233&psig=AOvVaw2NfgTeDSTD3xU9iH5DT9d3&ust=1696443230600000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDK6NO92oEDFQAAAAAdAAAAABAE))![Picsart_22-10-07_00-53-27-311](https://user-images.githubusercontent.com/77196053/194401092-6591cde3-887d-4158-b285-0af0065788bd.jpg)
+![image]([https://user-images.githubusercontent.com/77196053/195439747-3d2600b0-df06-43fc-9dab-534a9e62616e.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gayankod%2Fhacktoberfest-2023-are-you-ready-8640a0a36233&psig=AOvVaw2NfgTeDSTD3xU9iH5DT9d3&ust=1696443230600000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDK6NO92oEDFQAAAAAdAAAAABAE)](https://pixabay.com/illustrations/clock-new-year-celebration-happy-4656853/))![Picsart_22-10-07_00-53-27-311]()
 
 This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
 
